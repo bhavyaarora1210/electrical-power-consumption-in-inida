@@ -225,4 +225,4 @@ const ChartsSection: React.FC<ChartsSectionProps> = ({ predictionData, historyDa
   );
 };
 
-export default PredictionCards;
+export default ChartsSection;
