@@ -153,4 +153,4 @@ const PredictionCards: React.FC<PredictionCardsProps> = ({ predictionData, isLoa
   );
 };
 
-export default Dashboard;
+export default PredictionCards;
